@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaFXUm/Anotações/Dicas e links&apos; to &apos;Dicas e links.md&apos;" description="Rename resource &apos;Dicas e links&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Anotações/Dicas e links" name="Dicas e links.md" stamp="1686693267644" updateReferences="true"/>
+</session>

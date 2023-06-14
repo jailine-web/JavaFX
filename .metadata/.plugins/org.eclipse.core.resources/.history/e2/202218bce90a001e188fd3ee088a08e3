@@ -1,0 +1,27 @@
+### Links 
+
+#### Link do executáveldo scene builder: https://gluonhq.com/products/scene-builder/
+#### Local onde o SceneBuilder foi instalado: D:\Users\jaysa\AppData\Local\SceneBuilder\SceneBuilder.exe
+
+#### Link biblioteca JavaFX sdk : https://gluonhq.com/products/javafx/
+
+#### Biblioteca http://download.eclipse.org/efxclipse/updates-released/3.4.1/site/
+
+### Baixar biblioteca no eclipse 
+
+#### Help --> new software --> link da biblioteca --> marca a biblioteca --> espera --> 
+reinicia o eclipse
+
+
+Criação do projeto:
+
+o File -> New -> Other -> JavaFX Project
+o Dê um nome ao projeto e clique Next
+o Na aba Libraries, selecione Modulepath, clique Add Library, e selecione JavaFX
+o Clique Finish
+o Module Info: Don't Create
+
+
+
+
+
