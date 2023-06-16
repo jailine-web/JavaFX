@@ -1,14 +1,14 @@
 
 
-##Ao clonar/duplicar o projeto pode ser necessário inserir essa configuração novamente para o projeto rodar corretamente:
+## Ao clonar/duplicar o projeto pode ser necessário inserir essa configuração novamente para o projeto rodar corretamente:
 
 #### - Botão direito no projeto -> Run As -> Run Configurations -> Arguments -> VM Arguments
-####- Copiar o conteúdo abaixo, adaptando para sua pasta:
+#### - Copiar o conteúdo abaixo, adaptando para sua pasta:
 #### --module-path "C:\Java-libs\javafx-sdk-17.0.7\lib" --add-modules=javafx.fxml,javafx.controls
 
-##FXML: é uma linguagem de marcação para desenhar a tela com o scene.
+### FXML: é uma linguagem de marcação para desenhar a tela com o scene.
 
-##@FXML: esta anotação é responsável por declarar um atributo correspondente controle da tela(junção da classe de controller com a view(telinha))
+### @FXML: esta anotação é responsável por declarar um atributo correspondente controle da tela(junção da classe de controller com a view(telinha))
 
 ## Passo no Scenebuilder
 
