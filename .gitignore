@@ -1,1 +1,19 @@
 /.metadata/
+
+#Package Files #
+*.jar
+*.war
+*.zip
+*.targz
+*.rar
+*.nar
+*.ear
+
+# build folders
+bin/
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
